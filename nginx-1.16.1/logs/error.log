@@ -1,0 +1,50 @@
+2020/12/11 18:46:26 [notice] 43592#43596: signal process started
+2020/12/11 18:47:11 [notice] 43656#43648: signal process started
+2020/12/11 18:47:11 [error] 43952#44852: *1 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: 192.168.1.46, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2020/12/11 18:47:54 [error] 42032#42232: *1 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.172.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.172.1.46"
+2020/12/11 18:48:09 [error] 42032#42232: *1 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.172.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.172.1.46"
+2020/12/11 18:48:13 [error] 42032#42232: *1 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.172.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.172.1.46"
+2020/12/11 18:48:19 [error] 42032#42232: *1 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.172.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.172.1.46"
+2020/12/11 18:48:42 [error] 42032#42232: *1 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.172.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.172.1.46"
+2020/12/11 18:48:45 [error] 42032#42232: *1 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.172.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.172.1.46"
+2020/12/11 18:49:50 [notice] 43108#22408: signal process started
+2020/12/11 18:51:22 [error] 42032#42232: *2 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.172.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.172.1.46"
+2020/12/11 18:51:28 [error] 42032#42232: *2 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.172.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.172.1.46"
+2020/12/11 18:51:30 [error] 42032#42232: *2 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.172.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.172.1.46"
+2020/12/11 18:51:49 [error] 43548#17752: *4 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: 192.168.1.46, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/api/goods/type_list?page=2&size=10&type=is_best"
+2020/12/11 18:52:21 [error] 42032#42232: *2 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.172.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.172.1.46"
+2020/12/11 18:52:21 [error] 42032#42232: *3 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2020/12/11 18:52:45 [notice] 36436#39172: signal process started
+2020/12/11 18:53:35 [error] 42032#42232: *5 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.46"
+2020/12/11 18:53:35 [error] 42032#42232: *6 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.172.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.172.1.46"
+2020/12/11 18:53:35 [error] 42032#42232: *7 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2020/12/11 18:54:26 [error] 42032#42232: *5 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.46"
+2020/12/11 18:54:26 [error] 42032#42232: *7 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2020/12/11 18:55:16 [error] 42032#42232: *5 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.46"
+2020/12/11 18:55:16 [error] 42032#42232: *7 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2020/12/11 18:55:16 [error] 42032#42232: *9 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.172.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.172.1.46"
+2020/12/11 18:55:36 [error] 42032#42232: *5 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.46"
+2020/12/11 18:55:36 [error] 42032#42232: *7 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2020/12/11 18:56:45 [notice] 39812#30752: signal process started
+2020/12/11 18:57:03 [error] 45016#23216: *52 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.46, server: 192.168.1.46, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.46:8080", referrer: "http://192.168.1.46:8080/"
+2020/12/11 18:57:17 [error] 45016#23216: *52 CreateFile() "D:\nginx-1.16.1/html/index" failed (2: The system cannot find the file specified), client: 192.168.1.46, server: 192.168.1.46, request: "GET /index HTTP/1.1", host: "192.168.1.46:8080"
+2020/12/11 19:01:15 [notice] 32988#21180: signal process started
+2020/12/11 19:02:21 [notice] 32044#44216: signal process started
+2020/12/11 19:03:06 [notice] 43784#10520: signal process started
+2020/12/11 19:03:11 [notice] 37896#21048: signal process started
+2020/12/11 19:04:35 [notice] 44296#44292: signal process started
+2020/12/11 19:08:48 [notice] 40048#42824: signal process started
+2020/12/11 19:23:31 [notice] 43124#40272: signal process started
+2020/12/11 19:26:02 [notice] 33108#40916: signal process started
+2020/12/11 19:52:22 [notice] 47012#46932: signal process started
+2020/12/11 20:00:37 [error] 42032#42232: *10 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.46"
+2020/12/11 20:00:37 [error] 42032#42232: *11 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2020/12/11 20:02:32 [error] 42032#42232: *13 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.46"
+2020/12/11 20:02:32 [error] 42032#42232: *14 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2020/12/11 20:32:00 [notice] 29756#23624: signal process started
+2020/12/11 20:32:40 [error] 40296#36744: *343 CreateFile() "D:\nginx-1.16.1/html/dist/js/app.e8a545e3.js" failed (2: The system cannot find the file specified), client: 192.168.1.46, server: 192.168.1.46, request: "GET /js/app.e8a545e3.js HTTP/1.1", host: "192.168.1.46:8080", referrer: "http://192.168.1.46:8080/"
+2020/12/11 20:32:40 [error] 40296#36744: *341 CreateFile() "D:\nginx-1.16.1/html/dist/js/app.e8a545e3.js" failed (2: The system cannot find the file specified), client: 192.168.1.46, server: 192.168.1.46, request: "GET /js/app.e8a545e3.js HTTP/1.1", host: "192.168.1.46:8080", referrer: "http://192.168.1.46:8080/"
+2020/12/11 20:32:40 [error] 40296#36744: *344 CreateFile() "D:\nginx-1.16.1/html/dist/js/chunk-0247cac6.e58d4300.js" failed (2: The system cannot find the file specified), client: 192.168.1.46, server: 192.168.1.46, request: "GET /js/chunk-0247cac6.e58d4300.js HTTP/1.1", host: "192.168.1.46:8080", referrer: "http://192.168.1.46:8080/"
+2020/12/11 20:32:40 [error] 40296#36744: *341 CreateFile() "D:\nginx-1.16.1/html/dist/js/chunk-23a92188.d45789e4.js" failed (2: The system cannot find the file specified), client: 192.168.1.46, server: 192.168.1.46, request: "GET /js/chunk-23a92188.d45789e4.js HTTP/1.1", host: "192.168.1.46:8080", referrer: "http://192.168.1.46:8080/"
+2020/12/11 20:52:04 [error] 42032#42232: *16 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.46, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.46"
+2020/12/11 20:52:05 [error] 42032#42232: *17 CreateFile() "D:\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"

@@ -1,0 +1,45 @@
+.red{
+    color: red;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+ul,li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+#app{
+    height: 100%;
+}
+html,body{
+    height: 100%;
+}
+input,button{
+    outline: 0;
+    border: 0;
+}
+/* 设置字体大小 */
+html,body{
+    font-size: 10px !important;
+}
+/* 375px 的屏幕 */
+@media screen and(min-width:375px){
+    html,body{
+        font-size:10px !important;
+    }
+}
+/* 414px的屏幕 */
+@media screen and (min-width:414px){
+    html,body{
+        font-size: 11.04px !important;
+    }
+}
+/* 768px的屏幕 */
+@media screen and (min-width:768px ){
+    html,body{
+        font-size: 20.48px !important;
+    }
+}
